@@ -1,7 +1,7 @@
 
-# Projeto ContextApi @sujeitoprogramador
+# Simples projeto usando Context Api
 
-Base do projeto para acompanhar o video, esse projeto foi criado com EXPO.
+Simples entendimento do funcionamento do context api, esse projeto foi criado com EXPO.
 
 
 ## Instalação
